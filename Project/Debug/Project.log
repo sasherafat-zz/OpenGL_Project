@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\opengl\code\final_project\project\project\source.cpp(121): warning C4101: 'shiny': unreferenced local variable
+d:\opengl\code\final_project\project\project\source.cpp(266): warning C4018: '<': signed/unsigned mismatch
+  Project.vcxproj -> D:\opengl\code\Final_Project\Project\Debug\Project.exe
